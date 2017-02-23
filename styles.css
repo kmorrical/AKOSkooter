@@ -1,0 +1,41 @@
+header{
+	padding-left: 20px;
+	padding-top: 20px;
+
+}
+
+h1{
+	padding-bottom: 0px;
+	margin-bottom: 0;
+}
+
+h2{
+		padding-left: 20px;
+		padding-top: 0px;
+		margin-top: 0;
+		border-top: 0px;
+}
+
+hr{
+	border-width: 5px;
+	border-color: #16B7A2;
+}
+div#bottomDiv{
+	background-color: beige;
+
+   /*background-image: linear-gradient(#00b291, #00b25c);*/
+   height: 300px;
+   display: block;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+
+span#title{
+	text-align: center;
+}
+
+iframe{
+	border: 0px;
+	border-color: clear;
+}
